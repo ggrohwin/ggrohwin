@@ -1,6 +1,10 @@
-# Hi, I'm George Grohwin
+# Hi, I'm George Grohwin.
 
-I'm a solutions engineer in San Francisco. I've been working in the regulatory compliance and information governance space for 20+ years. I'm more of a generalist than a specialist, and my background spans presales, implementation, professional services, software development, and technical management. The common thread in these roles is the satisfaction of working directly with customers to solve their business problems. 
+I've worked in enterprise software for over 20 years. I'm currently a solutions engineer at Smarsh, a leading provider of SaaS solutions for regulatory compliance and information governance. Over my career, I've worked in various customer-facing roles, including professional services engineer, implementation specialist, and business analyst. A common thread across these roles is a focus on working directly with customers, understanding their business needs, and identifying and implementing technical solutions.
+
+## What I'm Building
+
+I've been working on Python apps to give me hands-on experience with generative and agentic AI concepts, including RAG, MCP, and prompt engineering. Claude Code has been a huge learning accelerator for me. I live in San Francisco, and it's exciting to be at the heart of the AI explosion.  
 
 ## Connect
 
