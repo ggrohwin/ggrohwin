@@ -1,6 +1,6 @@
 # Hi, I'm George Grohwin.
 
-I've worked in enterprise software for over 20 years. I'm currently a solutions engineer at Smarsh, a leading provider of SaaS solutions for regulatory compliance and information governance. Over my career, I've worked in various customer-facing roles, including professional services engineer, implementation specialist, and business analyst. A common thread across these roles is a focus on working directly with customers, understanding their business needs, and identifying and implementing technical solutions.
+I've worked in enterprise software for over 25 years. I'm currently a solutions engineer at Smarsh, a leading provider of SaaS solutions for regulatory compliance and information governance. Over my career, I've worked in various customer-facing roles, including professional services engineer, implementation specialist, and business analyst. A common thread across these roles is a focus on working directly with customers, understanding their business needs, and identifying and implementing technical solutions.
 
 ## What I'm Building
 
